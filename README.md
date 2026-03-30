@@ -1,4 +1,4 @@
-# Sample1 - Real-Time Frequency Visualizer
+# Frequency Tool - Real-Time Audio Analyzer
 
 A self-contained, browser-based frequency analyzer that captures real-time audio from your microphone and displays it with multiple interactive visualizations.
 
@@ -19,7 +19,7 @@ A self-contained, browser-based frequency analyzer that captures real-time audio
 
 ## 🚀 Getting Started
 
-1. **Open the visualizer**: Open `index.html` in any modern web browser
+1. **Open the analyzer**: Open `index.html` in any modern web browser
 2. **Grant microphone access**: Your browser will request permission to access your microphone
 3. **Click "Start"**: Begin analyzing your audio in real-time
 4. **Explore the controls**: Adjust frequency range, FFT size, and smoothing
@@ -43,7 +43,7 @@ Requires:
 - Modern dark theme with cyan/blue gradients
 - Responsive layout (works on desktop, tablet, mobile)
 - Smooth 60fps canvas rendering
-- Professional UI with status indicators
+- Professional UI with status indicators and real-time statistics
 
 ## 🔧 Technical Details
 
@@ -91,4 +91,4 @@ Public domain - Feel free to use, modify, and share!
 
 ---
 
-**Sample1 v1.0** — Real-Time Frequency Analysis Tool | Created with Web Audio API
+**Frequency Tool v1.0** — Real-Time Audio Analysis Tool | Created with Web Audio API
